@@ -1,4 +1,6 @@
 # vanila-js-project
+all projects I have done from the javascript30.com website. all credits go to javascript30 founder and instructor.
+
 # all project link
 
 1. the Drum kit
